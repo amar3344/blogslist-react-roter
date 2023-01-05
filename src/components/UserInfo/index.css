@@ -1,0 +1,22 @@
+.userInfo-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+}
+
+.designation {
+  margin: 0% auto;
+  color: #9aa5b1;
+  font-weight: 500;
+}
+
+.heading-name {
+  margin: 10px 0px;
+}

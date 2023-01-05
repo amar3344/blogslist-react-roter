@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0% auto;
+}
+
+.published-date {
+  color: #616e7c;
+  font-weight: 500;
+}
+
+.description {
+  font-weight: 500;
+  color: #616e7c;
+}
+
+.list-container {
+  border-bottom: 1px solid #616e7c;
+}
